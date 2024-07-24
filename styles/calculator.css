@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+.centre-calculator{
+  display: grid;
+  place-items: center;
+}
+
+.result {
+  border: none;
+  width: 385px;
+  height: 50px;
+  padding: 10px 15px;
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  background-color: grey;
+}
+
+.calculator-btn{
+  border: none;
+  padding: 40px;
+  font-size: 30px;
+  border-radius: 20px;
+  background-color: transparent;
+  color: white;
+}
+
+.grey-btn {
+  background-color: gray;
+}
+
+.yellow-btn {
+  background-color: orange;
+}
